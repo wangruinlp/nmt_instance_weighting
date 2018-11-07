@@ -7,6 +7,7 @@ For the sentence weigting and domian weighting, you just need to add a weight to
 For the batch weighting method, you can refer to the original Nematus settings: domain_interpolation_data_iterator.py
 
 @InProceedings{wang-EtAl:2017:EMNLP20174,
+
 author    = {Wang, Rui  and  Utiyama, Masao  and  Liu, Lemao  and  Chen, Kehai  and  Sumita, Eiichiro},
 
 title     = {Instance Weighting for Neural Machine Translation Domain Adaptation},
